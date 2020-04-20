@@ -1,0 +1,19 @@
+body {
+    box-sizing: border-box;
+    background-color: darkgray;
+    text-align: center;
+    display: grid;
+    height: 100vh;
+    margin: 0;
+    place-items: center center;
+}
+.container {
+    background-color: white;
+    width: 400px;
+    height: 300px;
+    border-radius: 4px;
+}
+button {
+    width: 100px;
+    height: 50px;
+}
